@@ -1,0 +1,1 @@
+# spring-kafka-connect-mysql-elasticsearch
